@@ -1,0 +1,15 @@
+.head
+{	background-image: url("msi.jpg");
+	color: red;
+	style=font-size: 30px;
+}
+.subhead
+{
+	background-image: url("giga.jpg");
+	color: blue;
+	font-size: 25px;
+}
+.links
+{	background-image: url("msi.jpg");
+	font-size: 20px;
+}
